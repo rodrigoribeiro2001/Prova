@@ -6,3 +6,10 @@ clone é quando você cria um repositório online e clona ela para a marquina lo
 
 3 - O que é um repositório?
 repositório é a pasta do projeto principal.
+
+4 - O que é merge?
+merge é fazer uma união entre duas branches.
+
+5 - O que é pull?
+pull e enviar uma alteração do github online com o local.
+
