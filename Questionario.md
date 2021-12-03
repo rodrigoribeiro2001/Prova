@@ -13,3 +13,5 @@ merge é fazer uma união entre duas branches.
 5 - O que é pull?
 pull e enviar uma alteração do github online com o local.
 
+7 - O que é branch?
+branch sao ramificação do projeto, serve para fazer alterações e testar para nao danificar o projeto principal.
