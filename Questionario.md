@@ -22,3 +22,6 @@ o código dele com o meu código.
 
 9 - O que é fork?
 fork é como um clone, a diferencia dele é que ele nao atualiza a marquina local.
+
+10 - O que é um VCS?
+software de controle de versão. 
