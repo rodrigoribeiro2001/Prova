@@ -19,3 +19,6 @@ branch sao ramificação do projeto, serve para fazer alterações e testar para
 8 - O que é pull request?
 É uma solicitação que se faz ao dono do repositório para que ele atualize 
 o código dele com o meu código.
+
+9 - O que é fork?
+fork é como um clone, a diferencia dele é que ele nao atualiza a marquina local.
