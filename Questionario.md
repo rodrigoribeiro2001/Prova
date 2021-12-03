@@ -17,5 +17,5 @@ pull e enviar uma alteração do github online com o local.
 branch sao ramificação do projeto, serve para fazer alterações e testar para nao danificar o projeto principal.
 
 8 - O que é pull request?
-É um pedido que se faz ao dono do repositório para que ele atualize 
+É uma solicitação que se faz ao dono do repositório para que ele atualize 
 o código dele com o meu código.
